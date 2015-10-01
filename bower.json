@@ -1,0 +1,18 @@
+{
+  "name": "contagion",
+  "version": "0.0.0",
+  "authors": [
+    "gschutz <guilherme@gschutz.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Proton": "a-jie/Proton"
+  }
+}
